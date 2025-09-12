@@ -1,0 +1,41 @@
+17:08:00.539 [TestNG-tests-1] INFO  testCases.TCOO2_LoginTest - *****finished TC002_login test*****
+17:08:04.661 [TestNG-tests-1] INFO  testCases.TC003_loginDDT - *****starting TC003_loginDDT test*****
+17:08:16.715 [TestNG-tests-1] INFO  testCases.TC003_loginDDT - *****starting TC003_loginDDT test*****
+17:08:28.644 [TestNG-tests-1] INFO  testCases.TC003_loginDDT - *****finished TC003_loginDDT test*****
+17:08:28.645 [TestNG-tests-1] INFO  testCases.TC003_loginDDT - *****starting TC003_loginDDT test*****
+17:08:30.947 [TestNG-tests-1] INFO  testCases.TC003_loginDDT - *****finished TC003_loginDDT test*****
+17:08:30.950 [TestNG-tests-1] INFO  testCases.TC003_loginDDT - *****starting TC003_loginDDT test*****
+17:08:42.601 [TestNG-tests-1] INFO  testCases.TC003_loginDDT - *****finished TC003_loginDDT test*****
+17:08:42.602 [TestNG-tests-1] INFO  testCases.TC003_loginDDT - *****starting TC003_loginDDT test*****
+17:56:00.228 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - *****starting TC001_account registration*****
+17:56:03.465 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - clicked on myAccount link..
+17:56:04.152 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - clicked on register link..
+17:56:04.155 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - providing customer details..
+17:56:06.068 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Validating expected msg..
+17:56:06.156 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - *****finished TC001_account registration*****
+17:56:08.151 [TestNG-tests-1] INFO  testCases.TCOO2_LoginTest - *****starting TC002_login test*****
+17:56:09.863 [TestNG-tests-1] INFO  testCases.TCOO2_LoginTest - *****finished TC002_login test*****
+17:56:12.869 [TestNG-tests-1] INFO  testCases.TC003_loginDDT - *****starting TC003_loginDDT test*****
+17:56:24.713 [TestNG-tests-1] INFO  testCases.TC003_loginDDT - *****starting TC003_loginDDT test*****
+17:56:36.233 [TestNG-tests-1] INFO  testCases.TC003_loginDDT - *****finished TC003_loginDDT test*****
+17:56:36.234 [TestNG-tests-1] INFO  testCases.TC003_loginDDT - *****starting TC003_loginDDT test*****
+17:56:38.405 [TestNG-tests-1] INFO  testCases.TC003_loginDDT - *****finished TC003_loginDDT test*****
+17:56:38.407 [TestNG-tests-1] INFO  testCases.TC003_loginDDT - *****starting TC003_loginDDT test*****
+17:56:49.990 [TestNG-tests-1] INFO  testCases.TC003_loginDDT - *****finished TC003_loginDDT test*****
+17:56:49.992 [TestNG-tests-1] INFO  testCases.TC003_loginDDT - *****starting TC003_loginDDT test*****
+18:16:29.932 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - *****starting TC001_account registration*****
+18:16:33.179 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - clicked on myAccount link..
+18:16:33.965 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - clicked on register link..
+18:16:33.968 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - providing customer details..
+18:16:36.033 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Validating expected msg..
+18:16:36.115 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - *****finished TC001_account registration*****
+18:16:37.998 [TestNG-tests-1] INFO  testCases.TCOO2_LoginTest - *****starting TC002_login test*****
+18:16:39.848 [TestNG-tests-1] INFO  testCases.TCOO2_LoginTest - *****finished TC002_login test*****
+18:16:42.895 [TestNG-tests-1] INFO  testCases.TC003_loginDDT - *****starting TC003_loginDDT test*****
+18:16:54.807 [TestNG-tests-1] INFO  testCases.TC003_loginDDT - *****starting TC003_loginDDT test*****
+18:17:06.462 [TestNG-tests-1] INFO  testCases.TC003_loginDDT - *****finished TC003_loginDDT test*****
+18:17:06.465 [TestNG-tests-1] INFO  testCases.TC003_loginDDT - *****starting TC003_loginDDT test*****
+18:17:08.703 [TestNG-tests-1] INFO  testCases.TC003_loginDDT - *****finished TC003_loginDDT test*****
+18:17:08.705 [TestNG-tests-1] INFO  testCases.TC003_loginDDT - *****starting TC003_loginDDT test*****
+18:17:20.262 [TestNG-tests-1] INFO  testCases.TC003_loginDDT - *****finished TC003_loginDDT test*****
+18:17:20.262 [TestNG-tests-1] INFO  testCases.TC003_loginDDT - *****starting TC003_loginDDT test*****

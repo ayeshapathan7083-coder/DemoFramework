@@ -1,0 +1,51 @@
+22:06:35.922 [main] INFO  testCases.TC001_AccountRegistrationTest - *****starting TC001_account registration*****
+22:06:39.049 [main] INFO  testCases.TC001_AccountRegistrationTest - clicked on myAccount link..
+22:06:39.583 [main] INFO  testCases.TC001_AccountRegistrationTest - clicked on register link..
+22:06:39.588 [main] INFO  testCases.TC001_AccountRegistrationTest - providing customer details..
+22:06:41.002 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected msg..
+22:11:11.898 [main] INFO  testCases.TC001_AccountRegistrationTest - *****starting TC001_account registration*****
+22:11:15.027 [main] INFO  testCases.TC001_AccountRegistrationTest - clicked on myAccount link..
+22:11:15.754 [main] INFO  testCases.TC001_AccountRegistrationTest - clicked on register link..
+22:11:15.754 [main] INFO  testCases.TC001_AccountRegistrationTest - providing customer details..
+22:11:17.217 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected msg..
+22:11:17.258 [main] ERROR testCases.TC001_AccountRegistrationTest - test failed
+20:25:43.856 [main] INFO  testCases.TC001_AccountRegistrationTest - *****starting TC001_account registration*****
+20:25:47.000 [main] INFO  testCases.TC001_AccountRegistrationTest - clicked on myAccount link..
+20:25:47.620 [main] INFO  testCases.TC001_AccountRegistrationTest - clicked on register link..
+20:25:47.623 [main] INFO  testCases.TC001_AccountRegistrationTest - providing customer details..
+20:25:49.789 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected msg..
+20:25:49.862 [main] ERROR testCases.TC001_AccountRegistrationTest - test failed
+20:27:23.472 [main] INFO  testCases.TC001_AccountRegistrationTest - *****starting TC001_account registration*****
+20:27:26.594 [main] INFO  testCases.TC001_AccountRegistrationTest - clicked on myAccount link..
+20:27:27.081 [main] INFO  testCases.TC001_AccountRegistrationTest - clicked on register link..
+20:27:27.083 [main] INFO  testCases.TC001_AccountRegistrationTest - providing customer details..
+20:27:28.535 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected msg..
+20:27:28.600 [main] INFO  testCases.TC001_AccountRegistrationTest - *****finished TC001_account registration*****
+20:29:48.603 [main] INFO  testCases.TC001_AccountRegistrationTest - *****starting TC001_account registration*****
+20:29:51.748 [main] INFO  testCases.TC001_AccountRegistrationTest - clicked on myAccount link..
+20:29:52.352 [main] INFO  testCases.TC001_AccountRegistrationTest - clicked on register link..
+20:29:52.352 [main] INFO  testCases.TC001_AccountRegistrationTest - providing customer details..
+20:29:53.444 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected msg..
+20:29:53.476 [main] INFO  testCases.TC001_AccountRegistrationTest - *****finished TC001_account registration*****
+20:33:48.782 [main] INFO  testCases.TC001_AccountRegistrationTest - *****starting TC001_account registration*****
+20:33:51.914 [main] INFO  testCases.TC001_AccountRegistrationTest - clicked on myAccount link..
+20:33:52.511 [main] INFO  testCases.TC001_AccountRegistrationTest - clicked on register link..
+20:33:52.514 [main] INFO  testCases.TC001_AccountRegistrationTest - providing customer details..
+20:33:54.002 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected msg..
+20:33:54.048 [main] INFO  testCases.TC001_AccountRegistrationTest - *****finished TC001_account registration*****
+20:58:30.525 [main] INFO  testCases.TC001_AccountRegistrationTest - *****starting TC001_account registration*****
+20:58:33.648 [main] INFO  testCases.TC001_AccountRegistrationTest - clicked on myAccount link..
+20:58:34.325 [main] INFO  testCases.TC001_AccountRegistrationTest - clicked on register link..
+20:58:34.329 [main] INFO  testCases.TC001_AccountRegistrationTest - providing customer details..
+20:58:35.998 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected msg..
+20:58:36.047 [main] INFO  testCases.TC001_AccountRegistrationTest - *****finished TC001_account registration*****
+20:58:44.258 [main] INFO  testCases.TC001_AccountRegistrationTest - *****starting TC001_account registration*****
+20:58:47.365 [main] INFO  testCases.TC001_AccountRegistrationTest - clicked on myAccount link..
+20:58:47.944 [main] INFO  testCases.TC001_AccountRegistrationTest - clicked on register link..
+20:58:47.944 [main] INFO  testCases.TC001_AccountRegistrationTest - providing customer details..
+20:58:49.216 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected msg..
+20:58:49.238 [main] INFO  testCases.TC001_AccountRegistrationTest - *****finished TC001_account registration*****
+20:59:51.512 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - *****starting TC001_account registration*****
+20:59:52.869 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - *****starting TC001_account registration*****
+20:59:54.641 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - clicked on myAccount link..
+20:59:55.719 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - clicked on register link..

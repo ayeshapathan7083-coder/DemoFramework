@@ -1,0 +1,58 @@
+17:51:56.137 [main] INFO  testCases.TC003_loginDDT - *****starting TC003_loginDDT test*****
+18:01:41.431 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\amirk\eclipse-workspace\DemoFramework\grid-docker.xml
+
+18:01:49.261 [main] INFO  testCases.TCOO2_LoginTest - *****starting TC002_login test*****
+18:01:50.927 [main] INFO  testCases.TCOO2_LoginTest - *****finished TC002_login test*****
+18:01:56.864 [main] INFO  testCases.TC001_AccountRegistrationTest - *****starting TC001_account registration*****
+18:02:00.026 [main] INFO  testCases.TC001_AccountRegistrationTest - clicked on myAccount link..
+18:02:00.635 [main] INFO  testCases.TC001_AccountRegistrationTest - clicked on register link..
+18:02:00.639 [main] INFO  testCases.TC001_AccountRegistrationTest - providing customer details..
+18:02:01.956 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected msg..
+18:02:02.010 [main] INFO  testCases.TC001_AccountRegistrationTest - *****finished TC001_account registration*****
+18:02:09.458 [main] INFO  testCases.TC003_loginDDT - *****starting TC003_loginDDT test*****
+18:02:20.956 [main] INFO  testCases.TC003_loginDDT - *****starting TC003_loginDDT test*****
+18:02:32.081 [main] INFO  testCases.TC003_loginDDT - *****finished TC003_loginDDT test*****
+18:02:32.085 [main] INFO  testCases.TC003_loginDDT - *****starting TC003_loginDDT test*****
+18:02:33.666 [main] INFO  testCases.TC003_loginDDT - *****finished TC003_loginDDT test*****
+18:02:33.669 [main] INFO  testCases.TC003_loginDDT - *****starting TC003_loginDDT test*****
+18:02:44.781 [main] INFO  testCases.TC003_loginDDT - *****finished TC003_loginDDT test*****
+18:02:44.784 [main] INFO  testCases.TC003_loginDDT - *****starting TC003_loginDDT test*****
+18:04:16.041 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\amirk\eclipse-workspace\DemoFramework\grid-docker.xml
+
+18:04:24.726 [main] INFO  testCases.TCOO2_LoginTest - *****starting TC002_login test*****
+18:04:27.011 [main] INFO  testCases.TCOO2_LoginTest - *****finished TC002_login test*****
+18:04:29.153 [main] INFO  testCases.TC001_AccountRegistrationTest - *****starting TC001_account registration*****
+18:04:32.375 [main] INFO  testCases.TC001_AccountRegistrationTest - clicked on myAccount link..
+18:04:33.104 [main] INFO  testCases.TC001_AccountRegistrationTest - clicked on register link..
+18:04:33.108 [main] INFO  testCases.TC001_AccountRegistrationTest - providing customer details..
+18:04:35.042 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected msg..
+18:04:35.109 [main] INFO  testCases.TC001_AccountRegistrationTest - *****finished TC001_account registration*****
+18:04:40.861 [main] INFO  testCases.TC003_loginDDT - *****starting TC003_loginDDT test*****
+18:04:52.785 [main] INFO  testCases.TC003_loginDDT - *****starting TC003_loginDDT test*****
+18:05:04.670 [main] INFO  testCases.TC003_loginDDT - *****finished TC003_loginDDT test*****
+18:05:04.670 [main] INFO  testCases.TC003_loginDDT - *****starting TC003_loginDDT test*****
+18:05:07.272 [main] INFO  testCases.TC003_loginDDT - *****finished TC003_loginDDT test*****
+18:05:07.276 [main] INFO  testCases.TC003_loginDDT - *****starting TC003_loginDDT test*****
+18:05:18.885 [main] INFO  testCases.TC003_loginDDT - *****finished TC003_loginDDT test*****
+18:05:18.885 [main] INFO  testCases.TC003_loginDDT - *****starting TC003_loginDDT test*****
+18:05:24.818 [main] INFO  testCases.TCOO2_LoginTest - *****starting TC002_login test*****
+18:05:26.703 [main] INFO  testCases.TCOO2_LoginTest - *****finished TC002_login test*****
+18:05:31.461 [main] INFO  testCases.TC001_AccountRegistrationTest - *****starting TC001_account registration*****
+18:05:34.609 [main] INFO  testCases.TC001_AccountRegistrationTest - clicked on myAccount link..
+18:05:35.211 [main] INFO  testCases.TC001_AccountRegistrationTest - clicked on register link..
+18:05:35.211 [main] INFO  testCases.TC001_AccountRegistrationTest - providing customer details..
+18:05:36.363 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected msg..
+18:05:36.407 [main] INFO  testCases.TC001_AccountRegistrationTest - *****finished TC001_account registration*****
+18:05:42.989 [main] INFO  testCases.TC003_loginDDT - *****starting TC003_loginDDT test*****
+18:05:55.173 [main] INFO  testCases.TC003_loginDDT - *****starting TC003_loginDDT test*****
+18:06:03.887 [main] INFO  testCases.TC003_loginDDT - *****finished TC003_loginDDT test*****
+18:06:03.894 [main] INFO  testCases.TC003_loginDDT - *****starting TC003_loginDDT test*****
+19:28:24.219 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\amirk\eclipse-workspace\DemoFramework\grid-docker.xml
+
+19:28:29.977 [main] INFO  testCases.TCOO2_LoginTest - *****starting TC002_login test*****
+19:28:32.492 [main] INFO  testCases.TCOO2_LoginTest - *****finished TC002_login test*****
+19:28:41.322 [main] INFO  testCases.TC001_AccountRegistrationTest - *****starting TC001_account registration*****
+19:28:44.520 [main] INFO  testCases.TC001_AccountRegistrationTest - clicked on myAccount link..

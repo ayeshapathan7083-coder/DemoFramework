@@ -1,0 +1,54 @@
+23:03:24.374 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\amirk\eclipse-workspace\DemoFramework\master.xml
+
+23:03:33.891 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - *****starting TC001_account registration*****
+23:03:37.031 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - clicked on myAccount link..
+23:03:39.809 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - clicked on register link..
+23:03:39.809 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - providing customer details..
+23:03:41.493 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Validating expected msg..
+23:03:41.541 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - *****finished TC001_account registration*****
+23:03:46.353 [TestNG-tests-1] INFO  testCases.TCOO2_LoginTest - *****starting TC002_login test*****
+23:03:48.097 [TestNG-tests-1] INFO  testCases.TCOO2_LoginTest - *****finished TC002_login test*****
+23:03:54.474 [TestNG-tests-1] INFO  testCases.TC003_loginDDT - *****starting TC003_loginDDT test*****
+23:04:05.427 [TestNG-tests-1] INFO  testCases.TC003_loginDDT - *****starting TC003_loginDDT test*****
+23:04:16.587 [TestNG-tests-1] INFO  testCases.TC003_loginDDT - *****finished TC003_loginDDT test*****
+23:04:16.594 [TestNG-tests-1] INFO  testCases.TC003_loginDDT - *****starting TC003_loginDDT test*****
+23:04:19.666 [TestNG-tests-1] INFO  testCases.TC003_loginDDT - *****finished TC003_loginDDT test*****
+23:04:19.671 [TestNG-tests-1] INFO  testCases.TC003_loginDDT - *****starting TC003_loginDDT test*****
+23:04:31.320 [TestNG-tests-1] INFO  testCases.TC003_loginDDT - *****finished TC003_loginDDT test*****
+23:04:31.333 [TestNG-tests-1] INFO  testCases.TC003_loginDDT - *****starting TC003_loginDDT test*****
+23:19:05.366 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\amirk\eclipse-workspace\DemoFramework\master.xml
+
+23:19:11.147 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - *****starting TC001_account registration*****
+23:19:14.294 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - clicked on myAccount link..
+23:19:15.122 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - clicked on register link..
+23:19:15.122 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - providing customer details..
+23:19:16.703 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Validating expected msg..
+23:19:16.763 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - *****finished TC001_account registration*****
+23:19:19.276 [TestNG-tests-1] INFO  testCases.TCOO2_LoginTest - *****starting TC002_login test*****
+23:19:21.053 [TestNG-tests-1] INFO  testCases.TCOO2_LoginTest - *****finished TC002_login test*****
+23:19:24.820 [TestNG-tests-1] INFO  testCases.TC003_loginDDT - *****starting TC003_loginDDT test*****
+23:19:36.321 [TestNG-tests-1] INFO  testCases.TC003_loginDDT - *****starting TC003_loginDDT test*****
+23:19:47.486 [TestNG-tests-1] INFO  testCases.TC003_loginDDT - *****finished TC003_loginDDT test*****
+23:19:47.499 [TestNG-tests-1] INFO  testCases.TC003_loginDDT - *****starting TC003_loginDDT test*****
+23:19:49.313 [TestNG-tests-1] INFO  testCases.TC003_loginDDT - *****finished TC003_loginDDT test*****
+23:19:49.314 [TestNG-tests-1] INFO  testCases.TC003_loginDDT - *****starting TC003_loginDDT test*****
+23:20:00.620 [TestNG-tests-1] INFO  testCases.TC003_loginDDT - *****finished TC003_loginDDT test*****
+23:20:00.625 [TestNG-tests-1] INFO  testCases.TC003_loginDDT - *****starting TC003_loginDDT test*****
+23:20:29.331 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\amirk\eclipse-workspace\DemoFramework\master.xml
+
+23:20:33.253 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - *****starting TC001_account registration*****
+23:20:36.404 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - clicked on myAccount link..
+23:20:37.092 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - clicked on register link..
+23:20:37.094 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - providing customer details..
+23:20:38.694 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Validating expected msg..
+23:20:38.761 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - *****finished TC001_account registration*****
+23:20:41.410 [TestNG-tests-1] INFO  testCases.TCOO2_LoginTest - *****starting TC002_login test*****
+23:20:43.113 [TestNG-tests-1] INFO  testCases.TCOO2_LoginTest - *****finished TC002_login test*****
+23:20:47.268 [TestNG-tests-1] INFO  testCases.TC003_loginDDT - *****starting TC003_loginDDT test*****
+23:20:58.827 [TestNG-tests-1] INFO  testCases.TC003_loginDDT - *****starting TC003_loginDDT test*****
+23:21:10.161 [TestNG-tests-1] INFO  testCases.TC003_loginDDT - *****finished TC003_loginDDT test*****
+23:21:10.164 [TestNG-tests-1] INFO  testCases.TC003_loginDDT - *****starting TC003_loginDDT test*****
+23:21:12.123 [TestNG-tests-1] INFO  testCases.TC003_loginDDT - *****finished TC003_loginDDT test*****
